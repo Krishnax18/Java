@@ -1,4 +1,5 @@
-package Java;
+package Patterns;
+
 public class HollowDiamond {
     public static void main(String[] args)
 {
